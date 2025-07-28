@@ -13,6 +13,7 @@
 | [0009-palindrome-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
 | ------- |
