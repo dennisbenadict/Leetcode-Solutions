@@ -6,12 +6,14 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Array
@@ -23,6 +25,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
