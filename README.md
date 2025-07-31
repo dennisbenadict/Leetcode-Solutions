@@ -9,6 +9,7 @@
 | [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2235-capitalize-the-title](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 ## Math
 |  |
 | ------- |
