@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
