@@ -15,6 +15,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2383-add-two-integers) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
