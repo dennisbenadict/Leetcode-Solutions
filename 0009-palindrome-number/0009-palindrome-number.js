@@ -20,20 +20,14 @@
 
 var isPalindrome = function(x) {
     let y=String(x)
-    last = y.length-1
-    for(i=0;i<y.length;i++){
-  
-     
-      if(last==i){
-         return true
-     }
-     if(y[last]!=y[i]){
-        
+    l= y.length-1
+    f= 0
+    while(f<=l){
+     if(y[l]!=y[f]){
          return false
      }
-     last--
-   
+     f++
+     l--
     }
-    
     return true
 };
