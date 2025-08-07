@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0485-max-consecutive-ones](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
