@@ -21,6 +21,7 @@
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
