@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -82,4 +85,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
