@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
@@ -90,8 +92,10 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
