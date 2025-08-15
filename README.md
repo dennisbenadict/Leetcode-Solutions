@@ -17,6 +17,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
