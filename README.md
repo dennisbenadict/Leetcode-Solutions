@@ -12,6 +12,7 @@
 | [0742-to-lower-case](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2235-capitalize-the-title](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
 | ------- |
