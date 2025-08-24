@@ -20,6 +20,7 @@
 | [0009-palindrome-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -117,10 +118,15 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
