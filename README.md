@@ -46,6 +46,7 @@
 | [0485-max-consecutive-ones](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1293-three-consecutive-odds](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2756-buy-two-chocolates](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
