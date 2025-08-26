@@ -48,6 +48,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1293-three-consecutive-odds](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2756-buy-two-chocolates](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 ## Simulation
@@ -132,4 +133,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0326-power-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
