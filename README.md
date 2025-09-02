@@ -13,6 +13,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2235-capitalize-the-title](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3194-find-words-containing-character](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2756-buy-two-chocolates](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [3194-find-words-containing-character](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
