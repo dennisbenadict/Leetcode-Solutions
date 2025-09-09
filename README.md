@@ -38,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
