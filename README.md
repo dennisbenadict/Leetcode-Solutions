@@ -43,6 +43,7 @@
 | [0075-sort-colors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
