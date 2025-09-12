@@ -31,6 +31,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2752-sum-multiples) |
 ## Array
@@ -68,6 +69,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
