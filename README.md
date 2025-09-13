@@ -11,6 +11,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2032-largest-odd-number-in-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2235-capitalize-the-title](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -29,6 +30,7 @@
 | [0415-add-strings](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
@@ -141,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 ## Recursion
 |  |
