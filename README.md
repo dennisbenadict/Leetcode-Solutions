@@ -11,6 +11,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2235-capitalize-the-title](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -128,6 +129,7 @@
 | [0217-contains-duplicate](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
