@@ -15,19 +15,29 @@
 //     }
 // };
 
-
-
-
+// var isPalindrome = function(x) {
+//     let y=String(x)
+//     for(i=0;i<=y.length-1;i++){
+//         for(j=y.length-1;j>=0;j--){
+//            if(y[i]==y[j]) {
+//             return true
+//            }
+//            else{
+//             return false
+//            }
+//         }
+//     }
+// };
 var isPalindrome = function(x) {
-    let y=String(x)
-    l= y.length-1
-    f= 0
-    while(f<=l){
-     if(y[l]!=y[f]){
-         return false
-     }
-     f++
-     l--
+x=x.toString()
+let left=0
+let right=x.length-1
+while(left<right){
+    if(x[left]!=x[right]){
+        return false
     }
-    return true
-};
+    left++
+    right--
+}
+return true
+}
