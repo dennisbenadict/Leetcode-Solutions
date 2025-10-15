@@ -36,6 +36,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
@@ -130,6 +131,7 @@
 | [0344-reverse-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0909-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
