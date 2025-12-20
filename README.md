@@ -11,6 +11,7 @@
 | [0415-add-strings](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0742-to-lower-case) |
+| [0944-delete-columns-to-make-sorted](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1651-shuffle-string](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -60,6 +61,7 @@
 | [0287-find-the-duplicate-number](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0909-stone-game](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0909-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/dennisbenadict/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
