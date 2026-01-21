@@ -7,6 +7,6 @@ public class Solution {
                 }
             }
         }
-        return nums;
+        return Array.Empty<int>();
     }
 }
