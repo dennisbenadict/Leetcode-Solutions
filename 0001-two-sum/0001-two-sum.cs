@@ -1,12 +1,15 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
-        for(int i=0;i<nums.Length;i++){
-            for(int j=i+1;j<nums.Length;j++){
-                if(nums[i]+nums[j]==target){
-                    return new int[] {i,j};
-                }
+        Dictionary<int,int>HashMap=new Dictionary<int,int>();
+        for(int i=0;i<=nums.Length-1;i++){
+            int diff=target-nums[i];
+            if(HashMap.ContainsKey(diff)){
+                return new int[] {HashMap[diff],i};
+            }
+            else{
+                HashMap[nums[i]]=i;
             }
         }
-        return Array.Empty<int>();
+        return new int[0];
     }
 }
