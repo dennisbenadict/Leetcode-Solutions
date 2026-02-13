@@ -2,7 +2,7 @@ public class Solution {
     public void ReverseString(char[] s) {
         int left=0;
         int right=s.Length-1;
-        dynamic temp;
+        char temp;
 
         while(left<right){
             temp=s[left];
